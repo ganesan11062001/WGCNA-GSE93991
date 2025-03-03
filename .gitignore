@@ -1,0 +1,8 @@
+# Ignore large data files
+data/raw_data/
+data/processed_data/
+
+# Ignore temporary files
+*.Rdata
+*.csv
+*.log
